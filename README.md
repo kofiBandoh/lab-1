@@ -1,4 +1,5 @@
 # Kofi Boampong Benefo- Bandoh
+Link to website: https://kofibandoh.github.io/lab-1/
 
 # Lab-1 Git Repository Seed
 
